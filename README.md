@@ -14,8 +14,6 @@
 
 DeepSeek Harness (deepseek-ai/deepseek-harness) is the official agent harness from DeepSeek AI. The GitHub licence on a repository usually covers code, examples and sometimes documentation. Model weights often have a separate licence, published in the same repo or on Hugging Face. Confirm both the code licence and the model licence before commercial use. Serving engines listed here also appear in Awesome Craft AI; they are repeated because they document DeepSeek model support. Chat and coding agents that can call a DeepSeek or OpenAI-compatible API are listed in Awesome Craft Agents.
 
-Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI), [Awesome Craft Agents](https://github.com/EdisonTKPcom/Awesome-Craft-Agents).
-
 ## Contents
 
 - [Dashboard](#dashboard)
@@ -25,6 +23,8 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [
 - [Serving engines with DeepSeek support](#serving-engines-with-deepseek-support)
 - [Eval and fine-tuning](#eval-and-fine-tuning)
 - [Integrations](#integrations)
+- [Related lists](#related-lists)
+- [Star history](#star-history)
 
 ## Dashboard
 
@@ -39,7 +39,9 @@ Related lists: [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft), [
 </tr>
 </table>
 
-Stats snapshot taken on 2026-11-15 from the GitHub API, for GitHub-hosted repositories only. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates. Star badges next to GitHub entries update live.
+**FACT** (snapshot taken 2026-11-15, GitHub API): 18 listed projects, 18 of them on GitHub with public repository statistics. Official documentation and other non-GitHub entries are listed but have no stars, forks or push dates.
+
+**ESTIMATE**: 993.1k combined GitHub stars and 155.2k combined forks, summed from those API counts on the snapshot date. Live star badges next to GitHub entries may differ.
 
 ### 🏆 Leaderboard
 
@@ -112,6 +114,28 @@ pie showData
 ## Integrations
 
 - [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - An official curated list of software that integrates the DeepSeek API. It is a catalogue, not a runtime. ![Stars](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-integration?style=flat-square&label=%E2%AD%90)
+
+## Related lists
+
+Other lists in the Awesome Craft series:
+
+- [Awesome Craft](https://github.com/EdisonTKPcom/Awesome-Craft) - A curated list of open-source, self-hostable alternatives to popular SaaS tools.
+- [Awesome Craft Agents](https://github.com/EdisonTKPcom/Awesome-Craft-Agents) - A curated list of open-source chat apps, coding agents, self-hosted agent bots, workflow automation and image-generation UIs.
+- [Awesome Craft AI](https://github.com/EdisonTKPcom/Awesome-Craft-AI) - A curated list of open-source, self-hostable AI runtimes, servers, Hugging Face libraries and related infrastructure.
+- [Awesome Craft BSC](https://github.com/EdisonTKPcom/Awesome-Craft-BSC) - A curated list of verified open-source clients, SDKs, dev tools and protocol code for BNB Smart Chain and opBNB.
+- [Awesome Craft CUDA](https://github.com/EdisonTKPcom/Awesome-Craft-CUDA) - A curated list of open-source CUDA learning material, kernel libraries, tooling and portability projects.
+- [Awesome Craft DevOps](https://github.com/EdisonTKPcom/Awesome-Craft-DevOps) - A curated list of open-source, self-hostable alternatives to popular DevOps and hosting SaaS tools.
+- [Awesome Craft Ethereum](https://github.com/EdisonTKPcom/Awesome-Craft-Ethereum) - A curated list of verified open-source Ethereum clients, SDKs, dev frameworks, wallets and security tools.
+- [Awesome Craft EV](https://github.com/EdisonTKPcom/Awesome-Craft-EV) - A curated list of open-source software and hardware for electric vehicles and charging.
+- [Awesome Craft Hardware](https://github.com/EdisonTKPcom/Awesome-Craft-Hardware) - A curated list of open-source tools for PCB, FPGA, ASIC and chip design.
+- [Awesome Craft Hyperliquid](https://github.com/EdisonTKPcom/Awesome-Craft-Hyperliquid) - A curated list of verified open-source SDKs, node tools, analytics and community libraries for the Hyperliquid ecosystem.
+- [Awesome Craft Malaysia](https://github.com/EdisonTKPcom/Awesome-Craft-Malaysia) - A curated list of open-source tools useful to Malaysian SMEs, with verified MyInvois support called out separately.
+- [Awesome Craft Solana](https://github.com/EdisonTKPcom/Awesome-Craft-Solana) - A curated list of verified open-source Solana clients, SDKs, frameworks, explorers and program libraries.
+- [Awesome Craft Web3](https://github.com/EdisonTKPcom/Awesome-Craft-Web3) - A curated list of open-source DEX protocol code, self-custody software, indexers, frameworks and Blockchain infrastructure.
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/chart?repos=EdisonTKPcom/Awesome-Craft-DeepSeek&amp;type=Date)](https://www.star-history.com/#EdisonTKPcom/Awesome-Craft-DeepSeek&Date)
 
 ## Contributing
 
